@@ -20,11 +20,18 @@ Os usuários podem iniciar o processo de adoção diretamente através da aplica
 # Tecnologias Utilizadas
 O projeto utiliza uma variedade de tecnologias para oferecer uma experiência excepcional:
 
-# Testes Unitários: Foram implementados testes unitários robustos para garantir a confiabilidade do código e a estabilidade do sistema.
+# Testes Unitários:
 
-# Conexão com Banco de Dados: O projeto utiliza conceitos avançados de manipulação de dados com Java e estabelece conexão com um banco de dados para armazenar informações essenciais.
+Foram implementados testes unitários robustos para garantir a confiabilidade do código e a estabilidade do sistema.
+
+# Conexão com Banco de Dados:
+
+O projeto utiliza conceitos avançados de manipulação de dados com Java e estabelece conexão com um banco de dados para armazenar informações essenciais.
 # MER
-# Execução de Queries: A aplicação executa queries SQL de maneira eficiente para garantir a recuperação e atualização precisas dos dados.
+![Descrição da Imagem]()
+
+# Execução de Queries:
+A aplicação executa queries SQL de maneira eficiente para garantir a recuperação e atualização precisas dos dados.
 
 Como Executar o Projeto
 Clone o Repositório:
