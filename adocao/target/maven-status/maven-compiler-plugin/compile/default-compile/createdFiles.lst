@@ -1,0 +1,11 @@
+br\ucb\poo\adocao\App.class
+br\ucb\poo\adocao\database\DatabaseConnector.class
+br\ucb\poo\adocao\dao\BaseEntity.class
+br\ucb\poo\adocao\dao\PetDao.class
+br\ucb\poo\adocao\dao\UsuarioDAO.class
+br\ucb\poo\adocao\model\Usuario.class
+br\ucb\poo\adocao\model\Pet.class
+br\ucb\poo\adocao\dao\ProcessoDeAdocaoDao.class
+br\ucb\poo\autenticacao\Autenticacao.class
+br\ucb\poo\adocao\model\ProcessoAdocao.class
+br\ucb\poo\adocao\dao\AuditoriaDAO.class
