@@ -28,7 +28,7 @@ Foram implementados testes unitários robustos para garantir a confiabilidade do
 
 O projeto utiliza conceitos avançados de manipulação de dados com Java e estabelece conexão com um banco de dados para armazenar informações essenciais.
 # MER
-![Descrição da Imagem](MER ADOCAO.png)
+![Descrição da Imagem](MER_ADOCAO.png)
 
 # Execução de Queries:
 A aplicação executa queries SQL de maneira eficiente para garantir a recuperação e atualização precisas dos dados.
